@@ -11,3 +11,6 @@ ln -s ~/.vim/gvimrc ~/.gvimrc
 # To update all plugin submodules, do this:
 cd ~/.vim
 git submodule foreach git pull origin master
+
+Yet to add YCM here. So you one may like to comment corresponding lines in ~/.vim/vimrc.
+
